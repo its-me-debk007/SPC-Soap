@@ -11,6 +11,6 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:name="in.silive.spc.ScannerFragment"
-        app:defaultNavHost="true"/>
+       />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
